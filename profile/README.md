@@ -22,8 +22,9 @@
 ### Mango
 
 <i>Still working…</i>
-
-<img width="625" height="614" alt="kek" src="https://github.com/user-attachments/assets/58dea334-8ff8-417a-95f1-23379ad0429f" />
+<div align="center">
+<img width="300" height="300" alt="kek" src="https://github.com/user-attachments/assets/58dea334-8ff8-417a-95f1-23379ad0429f" />
+</div>
 
 
 ---
